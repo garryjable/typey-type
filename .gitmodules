@@ -1,4 +1,4 @@
 [submodule "typey-type-data"]
 	path = typey-type-data
-	url = https://github.com/didoesdigital/typey-type-data.git
+	url = git@github.com:garryjable/typey-type-data.git
 	branch = master
